@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Dench</title>
+    <link>/</link>
+    <description>Recent content on Daniel Dench</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Courses Taught (Queens College): Intro to Macroeconomics, Intermediate Microeconomics
+Zicklin School for Online Learning: For the past 3 years I have worked for Ted Joyce to help students in business classes learn excel through an online automatically graded system. The courses span 5 classes with approximate enrollment of 5,000 students a semester. For the past 2 years I have been the senior IT Fellow, responsible for organizing the others graduate students to answer student questions about excel.</description>
+    </item>
+    
+    <item>
+      <title>CoderPortfolioの特徴</title>
+      <link>/posts/featuresofcoderportfolio.ja/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/featuresofcoderportfolio.ja/</guid>
+      <description>変更点 ShortCode &amp;ldquo;private content&amp;rdquo;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
+実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。
+リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
+SNSシェアのボタンを追加しました あなたの記事がより影響力を持つようになりました。
+コードのハイライトを変更しました 日本のサービス Qiita のハイライトを参照しました。
+とても優しく美しいハイライトです。
+ヘッダーに影を追加しました より境界線がはっきりしました。
+ShortCode &amp;ldquo;portfolio&amp;rdquo;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。</description>
+    </item>
+    
+    <item>
+      <title>Features Of CoderPortfolio</title>
+      <link>/posts/featuresofcoderportfolio/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/featuresofcoderportfolio/</guid>
+      <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
+You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
+An animation of red underline was added to Anchor. The site became a little fun and colorful.
+The button of the SNS share was added. It became to have an influence when writing articles more.
+Changed the color scheme of code highlight.</description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>/posts/theme-demo/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>テーマデモ</title>
+      <link>/posts/theme-demo.ja/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/theme-demo.ja/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/posts/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>このテーマはhugo-coderを元に作成をしています。
+一見綺麗なポートフォリをサイトですが、より個人的なことも伝えられるようにしました。
+変更点の詳細はブログから、&amp;rdquo;FeaturesOfCoderPortfolio&amp;rdquo;を見てください。
+それ以外のDEMOのコンテンツに関してはhugo-coderのものです。
+質問や、報告がありましたら、下記からお願いいたします。
+ open an issue on GitHub
+ ask me on Twitter
+  Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This theme is created based on hugo-coder.
+I made it possible to tell yourself more by my change.
+Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
+Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
+Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> 連絡をとりたいですか? 質問や報告などの連絡は下記からお願いします。
+ open an issue on GitHub
+ ask me on Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Address 5 Hanover Square, Suite 1602, New York, NY 10004 Phone (919)-945-4007 Email ddench@gradcenter.cuny.edu </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Portfolio Demo  Coder Portfolio hugo-coderを元に作成しました。
+より自分を伝えられるようにしました。
+   </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Selected Peer-Reviewed Publications &amp;dagger;: equal co-authorship 
+Income, the earned income tax credit, and infant health revisited.&amp;dagger; Health Economics, Forthcoming Dench, D., Joyce, T., 2019. Does e-cigarette advertising encourage adult smokers to quit?&amp;dagger; Journal of Health Economics, 68, Published Online First. Dave, D., Dench, D., Grossman, M., Kenkel, D., Saffer, H., 2019. Health and the wage rate: cause effect, both, or neither? New evidence on an old question.&amp;dagger; Health and Labor Markets.</description>
+    </item>
+    
+  </channel>
+</rss>
